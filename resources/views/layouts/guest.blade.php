@@ -17,7 +17,6 @@
         <div class="font-sans text-gray-900 antialiased">
 {{--            {{ $slot }}--}}
             @yield('content')
-            testing 123
         </div>
     </body>
 </html>
